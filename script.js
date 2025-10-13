@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // URL вашего бэкенда на Google Apps Script (вставьте его позже)
-    const BACKEND_URL = 'https://script.google.com/macros/s/AKfycbxCc2X_wAcmuVceLY33JJ_G1DRE6V5mBYpQsEqzFJDlYdVUDGXcuv7JZ2HwwxdB4p9-/exec'; 
+    const BACKEND_URL = 'https://script.google.com/macros/s/AKfycbzAMy_FTJjwlV7tpYa6_dMkzcZhWPYdPkSyRbtJO9L3tMDkx0KzP_700QJvrVoNWiJT/exec'; 
 
     const tg = window.Telegram.WebApp;
     tg.expand();
